@@ -1,0 +1,51 @@
+Given the following CV and job posting, please identify overlapping skills and experiences. Based on the overlaps, write a cover letter in simple English, with straightforward sentences, avoiding overly complex or fancy words. The focus should be on the professional skills only not soft skills.
+CV: 
+```
+Data Analyst
+Triomed, Remote
+March 2022 - Aug 2022
+
+Analyzed datasets with more than 10 mil data points  to assist in decision-making and drive business improvements.
+
+
+
+Education History
+Bachelor of Engineering, Big Data (Exchange) 
+Institution: Amsterdam University of Applied Sciences
+2023 - 2023
+
+Pursued a minor in Big Data as an exchange student
+Classes on: Machine learning, databases, data collecting, data storage, data gathering.
+Data Scientist & Analyst
+Gent thaqi
+Skills
+Daily use of Linux (mostly Debian) 
+Excellent knowledge of Python for data analysis and manipulation
+Experienced in implementing machine learning algorithms
+Data collection using web scraping (BeautifulSoup, Selenium)
+Proficient in Power Bi and Tableau for data visualization 
+WebDev (NodeJS, Flask, Javascript, VueJS, CSS)
+Experienced in data cleaning (regex expressions and lambda functions)
+Cisco CCNA 1 - 3
+Good knowledge of IoT devices, electronics and their communication.
+Projects on Raspberry Pi and single-board-microcontrollers (home automation, custom infrared remote controller, Pi-hole, NAS)
+PCB Schematics and Designs (KiCad)
+Projects
+GPU Marketplace Scraper & Data Processor: Developed a web scraper to fetch GPU details from 'tori.fi' and implemented a data cleaning script for categorization of GPU specs.
+Image Binary Classification. Used CNN to detect what the picture contains. This was later implemented by the NGO sumthing.org 
+Smart Composter: Programmed an ultrasonic sensor and created a web interface, connecting and soldering all project components for smooth functioning.
+linkedin.com/in/gent-thaqi
+gjentig4@gmail.com
+Espoo, Finland
+Bachelor of Engineering, Information Technology Institution: Metropolia, Finland
+2020 - 2024
+
+Majoring in Embedded IoT Devices
+Classes on: Linux Servers, Databases, IoT Devices and Wireless Communication, Sensor Physics, IoT security
+BBA, International Business 
+Institution: Hame University of Applied Sciences, Finland
+2016 - 2020
+
+Major in Management, with a minor in Marketing. 
+Classes on: Financial Accounting, Management Accounting, Data Processing, CRM, SAP etc.
+```
