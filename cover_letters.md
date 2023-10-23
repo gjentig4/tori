@@ -41,4 +41,22 @@ Gent Thaqi
 
 
 ---------------------------------------------- 
+23.10.23
+
+Dear Kristina,
+
+I am writing to express my keen interest in the IT Analyst (Student) position at Nordea Technology. With a solid background in data analysis, technology, and leadership roles, I am excited about the opportunity to contribute to and learn from your team.
+
+Data Analysis & IT Expertise: At my last workplace, Triomed, I actively managed datasets comprising over 10 million data points, refining my analytical skills. My daily use of Linux, especially Debian, along with a comprehensive knowledge of Python, prepares me to navigate complex IT challenges effectively. In addition, my proficiency in web development technologies such as NodeJS, Flask, Javascript, VueJS, and CSS ensures I'm equipped for both back-end and front-end IT solution development.
+
+Collaborative Tools & Reporting Proficiency: I bring a deep familiarity with MS Office tools, notably SharePoint, Excel, and PowerPoint. My experience in web scraping, using tools like BeautifulSoup and Selenium, is complemented by my adeptness with Power Bi and Tableau, aligning me well for the IT/Business Analysis & Reporting roles at Nordea. Furthermore, my proficiency in Power Bi underscores my experience with the MS Power Platform, enhancing collaboration and reporting capabilities.
+
+I am genuinely passionate about the synergy of technology and financial services and am eager to delve deeper into this interface at Nordea. Given my background and drive, I am confident in my ability to both learn from and contribute to the Technology Students team at Nordea.
+
+I am looking forward to the possibility of joining Nordea's student team and further discussing how my skills and experiences align with your objectives.
+
+Best regards,
+Gent Thaqi
+
+-------------
 
