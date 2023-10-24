@@ -1,26 +1,24 @@
-| Job title                                               | Company                                 |
-|---------------------------------------------------------|-----------------------------------------|
-| Data Analyst                                            | Metacore                                |
-| Business Analyst, Sourcing BI and Analytics             | UPM                                     |
-| Frontend Developer                                      | Indmeas Industrial Measurements         |
-| Analytics Consultant –Digital position.                 | McKinsey                                |
-| Data engineer                                           | Solita                                  |
-| Wolt                                                    | Wolt                                    |
-| Data engineer                                           | Sievo                                   |
-| Test Automation Trainees                                | Airbus                                  |
-| Traine smth                                             | Nokia                                   |
-| Data Analyst, Performance Marketing                     | metacore                                |
-| Developer Trainee, Anti-Financial Crime                 | OP                                      |
-| Data Scientist                                          | MedEngine                               |
-| Backend engineer (Data science interest)                | Meeshkan                                |
-| Pricing Analyst                                         | Swapee                                  |
-| Ensto                                                   | Open end application                    |
-| Data Engineer (Level Up), Loihde Advance                | Loihde Advance                          |
-| IT Analyst (Student)                                    | Nordea                                  |
-| Data Engineer                                           | Huuva                                   |
-| Machine Learning/AI Software Developer (Python)         | Yousician                               |
-
-
+| Job title                                               | Company                                 | Week Applied |
+|---------------------------------------------------------|-----------------------------------------|--------------|
+| Data Analyst                                            | Metacore                                | 41           |
+| Business Analyst, Sourcing BI and Analytics             | UPM                                     | 41           |
+| <span style="color:red">Frontend Developer</span>       | <span style="color:red">Indmeas Industrial Measurements</span>         | <span style="color:red">41</span>           |
+| Analytics Consultant –Digital position.                 | McKinsey                                | 41           |
+| <span style="color:red">Data engineer</span>            | <span style="color:red">Solita</span>  | <span style="color:red">41</span>           |
+| Wolt                                                    | Wolt                                    | 41           |
+| Data engineer                                           | Sievo                                   | 41           |
+| Test Automation Trainees                                | Airbus                                  | 41           |
+| Traine smth                                             | Nokia                                   | 41           |
+| Data Analyst, Performance Marketing                     | metacore                                | 41           |
+| Developer Trainee, Anti-Financial Crime                 | OP                                      | 41           |
+| Data Scientist                                          | MedEngine                               | 43           |
+| Backend engineer (Data science interest)                | Meeshkan                                | 43           |
+| Pricing Analyst                                         | Swapee                                  | 43           |
+| <span style="color:red">Ensto</span>                    | <span style="color:red">Open end application</span>                    | <span style="color:red">43</span>           |
+| Data Engineer (Level Up), Loihde Advance                | Loihde Advance                          | 43           |
+| IT Analyst (Student)                                    | Nordea                                  | 43           |
+| Data Engineer                                           | Huuva                                   | 43           |
+| Machine Learning/AI Software Developer (Python)         | Yousician                               | 43           |
 
 
 23.10.23
