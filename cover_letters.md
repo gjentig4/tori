@@ -2,9 +2,9 @@
 |---------------------------------------------------------|-----------------------------------------|--------------|
 | Data Analyst                                            | Metacore                                | 41           |
 | Business Analyst, Sourcing BI and Analytics             | UPM                                     | 41           |
-| <span style="color:red">Frontend Developer</span>       | <span style="color:red">Indmeas Industrial Measurements</span>         | <span style="color:red">41</span>           |
+| Frontend Developer                                      | Indmeas Industrial Measurements         | 41           |
 | Analytics Consultant –Digital position.                 | McKinsey                                | 41           |
-| <span style="color:red">Data engineer</span>            | <span style="color:red">Solita</span>  | <span style="color:red">41</span>           |
+| Data engineer                                           | Solita                                  | 41           |
 | Wolt                                                    | Wolt                                    | 41           |
 | Data engineer                                           | Sievo                                   | 41           |
 | Test Automation Trainees                                | Airbus                                  | 41           |
@@ -14,12 +14,11 @@
 | Data Scientist                                          | MedEngine                               | 43           |
 | Backend engineer (Data science interest)                | Meeshkan                                | 43           |
 | Pricing Analyst                                         | Swapee                                  | 43           |
-| <span style="color:red">Ensto</span>                    | <span style="color:red">Open end application</span>                    | <span style="color:red">43</span>           |
+| Ensto                                                   | Open end application                    | 43           |
 | Data Engineer (Level Up), Loihde Advance                | Loihde Advance                          | 43           |
 | IT Analyst (Student)                                    | Nordea                                  | 43           |
 | Data Engineer                                           | Huuva                                   | 43           |
 | Machine Learning/AI Software Developer (Python)         | Yousician                               | 43           |
-
 
 23.10.23
 
