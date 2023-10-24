@@ -5,7 +5,7 @@
 | Frontend Developer                                      | Indmeas Industrial Measurements         | 41           |
 | Analytics Consultant –Digital position.                 | McKinsey                                | 41           |
 | Data engineer                                           | Solita                                  | 41           |
-| Wolt                                                    | Wolt                                    | 41           |
+| Data                                                    | Wolt                                    | 41           |
 | Data engineer                                           | Sievo                                   | 41           |
 | Test Automation Trainees                                | Airbus                                  | 41           |
 | Traine smth                                             | Nokia                                   | 41           |
