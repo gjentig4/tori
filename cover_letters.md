@@ -166,6 +166,79 @@ I am thrilled about the prospect of joining Swappie, where I can employ my skill
 
 Thank you for considering my application. I'm keen to discuss the synergies further.
 
+---------------------------
+
+Dear Metacore Hiring Team
+
+I'm interested in the Data Analyst role for the Merge Mansion team. With my experience and skills, I believe I can be a valuable addition to your team. 
+
+At my last workplace, I often used Python and SQL to look at big sets of data. I know how to use cloud places to store data like BigQuery and I've worked with tools like Power Bi and Tableau to show the data in clear ways, which were later used to make business decisions. 
+
+One project I'm proud of is the GPU Marketplace Scraper. I used web scraping and collected data from online marketplaces. Later I cleaned this data and performed data analysis so that I could get a good grasp of the GPU market in Finland. I'm a gamer after all, so having a nice GPU is essential. I think doing projects like this has made me ready to work at Metacore.
+
+I'm excited to use my skills and love for games to help Metacore. I hope I can join your team and make Merge Mansion even better.
+
+Thank you for looking at my letter. I'd love to chat more about how I can be a good fit for Metacore.
+
+Best,
+Gent Thaqi
+------------------------------
+
+GPT PROMPT
+
+Given the following CV and job posting, please identify overlapping skills and experiences. Based on the overlaps, write a cover letter in simple English, with straightforward sentences, avoiding overly complex or fancy words, but maintaining a balanced tone.
+
+------------------------------------
+UPM; Sourcing BI and Analytics
+
+I am applying for the Business Analyst position within your Sourcing BI and Analytics team. My experience as a Data Analyst at Triomed and my academic background make me a strong fit for this role.
+
+At my last work placce, I analyzed extensive datasets, some having over 10 million data points. I then used Python to perform data analysis and data manipulation, and I've effectively implemented machine learning algorithms for various applications. A notable project I did for fun was the GPU Marketplace Scraper. Through web scraping techniques, I collected and cleaned the data, performing in-depth data analysis to understand the GPU market dynamics in Finland.
+
+I know how to use tools like Power BI and Tableau to show data clearly and help with business intelligence and decisions. I'm also skilled in Python, SQL, databases, and machine learning techniques. Furthermore, I know my way around GPT-4. Even if this letter sounds like me, it's GPT-4 working from the complex prompts I set up.
+
+Thanks for looking at my application. I hope to work with the Sourcing BI and Analytics team at UPM soon.
+
+
+--------------------------
+Analytics Consultant role at McKinsey Digital
+
+I am writing to express my interest in the Analytics Consultant role at McKinsey Digital in Helsinki. Given my background in data analysis and hands-on experience in creating analytical solutions, I believe I can be a valuable asset to your team.
+
+Programming & Data Analysis: I am proficient in Python, using it extensively for data analysis, manipulation, and implementation of machine learning algorithms. My experience analyzing datasets with over 10 million data points, combined with my expertise in tools like Power Bi and Tableau, equips me to address the technical challenges of this role.
+Consultative Approach: My role as a Data Analyst at Triomed enabled me to analyze data and derive insights that assisted in decision-making and business improvements. This aligns with McKinsey Digital's ethos of not just understanding data but also converting it into actionable business strategies.
+Project Highlight - GPU Bot: I developed a GPU Marketplace Scraper & Data Processor, a web scraper that fetches GPU details from 'tori.fi'. Not only did this involve data collection, but I also implemented a data cleaning script for the categorization of GPU specs. This project exemplifies my ability to combine programming skills with data analysis to deliver practical solutions.
+GPT Prompt Skills: I'm skilled in using GPT language models. In fact, this cover letter was created by finding overlapping skills between my CV and the requirements posted on your job description . It's a blend of my data skills and modern AI tools.
+
+I'm excited about the possibility of contributing in the role of a management consultant and data scientist at McKinsey Digital. I believe my expertise aligns with your mission, and I'm excited about the potential fit. 
+
+Thank you for considering my application
+
+--------------------
+Analytics Consultant position at Solita
+
+Dear Hiring Team at Solita,
+
+I'm reaching out to express my interest in the Analytics Consultant position at Solita. With a robust expertise in Power BI, Tableau, and Machine Learning applications, I believe I am poised to bring valuable insights and solutions to your team.
+
+Visual Analytics Expertise: My solid background in Power BI and Tableau has been proven over various projects. I have transformed complex datasets into actionable insights, ensuring data visualization is not just aesthetic but also meaningful.
+Machine Learning Integration: Although your listing focuses on visualization tools, my experience in Machine Learning can enhance this. By integrating ML algorithms with Power BI or Tableau, I've previously enriched visualizations with predictive analytics components. This crossover can offer Solita's clients advanced data insights that move beyond traditional reporting.
+GPT Prompt Skills: I'm skilled in using GPT language models. In fact, this cover letter was created by finding overlapping skills between my CV and the requirements posted on your job description . It's a blend of my data skills and modern AI tools.
+
+I'm enthusiastic about the prospect of joining Solita's proficient team and driving data solutions that resonate with your client needs. My CV, attached, offers a more detailed view of my professional journey.
+
+Thank you for your time and consideration. I'm eager to discuss potential synergies further.
+
+---------------------------------
+Wolt; Machine Learning Engineer
+
+I am reaching out to express my interest in the Machine Learning Engineer position at Wolt. After reviewing the job details, I believe my experience aligns closely with the requirements.
+
+Experience in ML/MLOps: At Triomed and as a Data Scientist & Analyst, I utilized my skills in developing, scaling, and maintaining machine learning solutions. Additionally, I developed an ML model that classifies images into different categories, which is now being utilized by the organization something.org.
+Software Engineering in Python & Tools: My strong proficiency in Python, paired with familiarity with Docker and daily use of Linux, equips me to integrate effectively with Wolt’s technical platform and adapt to tools like Kubernetes, Flyte, and Seldon Core.
+GPT Prompt Skills: I'm skilled in using GPT language models. In fact, this cover letter was created by finding overlapping skills between my CV and the requirements posted on your job description . It's a blend of my data skills and modern AI tools.
+
+Thank you for considering my application. I am keen to discuss further how my skills and background align with the position, and I am available at your earliest convenience.
 
 ------------------------------
 
