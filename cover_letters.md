@@ -19,7 +19,26 @@
 | IT Analyst (Student)                                    | Nordea                                  | 43           |
 | Data Engineer                                           | Huuva                                   | 43           |
 | Machine Learning/AI Software Developer (Python)         | Yousician                               | 43           |
+| Summer Trainee, Data Specialist                         | UPM                                     | 48           |
 
+
+Dear Hiring Manager,
+
+I am writing to express my interest in the Data Specialist position at UPM. My passion for sustainability, coupled with my background in Information Technology, particularly in data analysis and IoT, strongly aligns with UPM's commitment to innovating for a sustainable tomorrow.
+
+My recent role at Triomed as a Data Analyst, where I managed and analyzed large datasets, provided me with substantial experience in data analytics. I believe this experience directly complements the key responsibilities of the Data Specialist role at UPM. While leading a team of over 30 individuals at UNICEF Finland, I developed strong leadership and collaborative skills, which I am excited to bring to your team.
+
+One of my most fulfilling projects, the Smart Composter, developed as part of my Bachelor of Engineering program, is a testament to my dedication to sustainability. In this project, we designed a Smart Composter using IoT technologies. The system included Raspberry Pico as a microcontroller, ultrasonic and temperature/humidity sensors for real-time data collection, and a web application for user interaction. This project not only honed my skills in Python, SQL, and cloud-based solutions but also reflected my commitment to environmental sustainability.
+
+Your focus on modern technologies like Azure and data visualization tools like PowerBI and Tableau perfectly matches my technical expertise. I am adept at Python and SQL for data transformation and integration, and equally skilled in implementing machine learning algorithms for predictive analysis and data insights. This combination of skills enables me to not only manage and analyze data effectively but also to uncover deeper insights that can drive innovation and strategic decisions at UPM."
+
+I am eager to discuss how my passion for sustainability, technical expertise, and my hands-on experience in innovative projects can contribute to the success of UPM. Thank you for considering my application. I look forward to the possibility of contributing to UPM’s inspiring journey towards a sustainable future.
+
+Sincerely,
+Gent Thaqi
+
+
+---------------------------------------------
 23.10.23
 
 Dear Hiring Manager at Ensto,
