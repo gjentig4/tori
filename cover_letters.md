@@ -21,7 +21,54 @@
 | Machine Learning/AI Software Developer (Python)         | Yousician                               | 43           |
 | Summer Trainee, Data Specialist                         | UPM                                     | 48           |
 | Analytics Engineer                                      | Metacore                                | 2/24         |
+| Giant Leap Trainee, Machine Data Analysis               | Vaisala                                 | 3/24         |
+| Nordea Trainee                                          | Nordea                                  | 3/24         |\
 
+
+Dear Hiring Team at Vaisala,
+
+I am writing to express my interest in the Giant Leap Trainee, Machine Data Analysis position at Vaisala's headquarters in Vantaa. The structure of the Giant Leap program, specifically the opportunity to lead my own project, aligns perfectly with my passion for undertaking individual projects and presenting the results. This role excites me as it offers a platform to apply my analytical skills and experience in data analysis in a meaningful and impactful way.
+
+My experience as a Data Analyst at Triomed, where I handled datasets with over 10 million data points, has advanced my analytical abilities and problem-solving skills. During my time there, I was responsible for making data-driven decisions that significantly improved business operations based on the results from my analysis. Additionally, my role as Senior Team Leader at UNICEF Finland involved coordinating and leading a team, skills that are essential for the project-based nature of the Giant Leap program.
+
+I hold a Bachelor's degree in Information Technology from Metropolia, Finland, majoring in Embedded IoT Devices, and an exchange program in Big Data from Amsterdam University of Applied Sciences. These academic pursuits have equipped me with a deep understanding of data collection, storage, and analysis – all of which are crucial for the Machine Data Analyst role. My technical skills include proficiency in Python, data visualization tools such as Power Bi and Tableau, and experience in machine learning algorithms, evident from my projects like the GPU Marketplace Scraper & Data Processor and Image Binary Classification for Sumthing.org.
+The prospect of identifying use cases and utilizing data from Vaisala's production machines as part of the Smart Factory team is an exhilarating challenge that I am eager to undertake. My independent project experiences, like the innovative use of the GPT-4 API for job hunting and the development of a custom CNN for image classification, demonstrate my ability to lead projects from conception to completion with successful outcomes.
+I am particularly drawn to Vaisala's commitment to making a significant impact in areas like climate action and the company's global leadership in weather, environment, and industrial measurements. The opportunity to learn from Vaisala’s brilliant experts, participate in training sessions, and contribute to real-life questions that matter to the company excites me.
+I am confident that my background in data analysis, my passion for leading projects, and my eagerness to learn and grow align well with the requirements of the Giant Leap program. I look forward to the possibility of contributing to Vaisala's innovative solutions and being a part of a team that makes a real difference in the world.
+Thank you for considering my application. I am excited about the opportunity to discuss how I can contribute to the success of Vaisala's Smart Factory operations.
+Best regards,
+Gent Thaqi
+
+
+
+-------------------------------------
+
+Dear Hiring Team at Vaisala,
+
+I am writing to express my interest in the Giant Leap Trainee, Machine Data Analysis position at Vaisala's headquarters in Vantaa. The structure of the Giant Leap program, specifically the opportunity to lead my own project, aligns perfectly with my passion for undertaking individual projects and presenting the results. This role excites me as it offers a platform to apply my analytical skills and experience in data analysis in a meaningful and impactful way.
+
+My experience as a Data Analyst at Triomed, where I handled datasets with over 10 million data points, has advanced my analytical abilities and problem-solving skills. During my time there, I was responsible for making data-driven decisions that significantly improved business operations based on the results from my analysis. Additionally, my role as Senior Team Leader at UNICEF Finland involved coordinating and leading a team, skills that are essential for the project-based nature of the Giant Leap program.
+
+As a current student at Metropolia University of Applied Sciences, majoring in Embedded IoT Devices with a focus on Big Data, and with a strong background in data analysis and machine learning, I am excited about the prospect of contributing to Nordea’s dynamic and innovative environment. These academic pursuits have equipped me with a deep understanding of data collection, storage, and analysis – all of which are crucial for the Machine Data Analyst role. 
+
+My technical skills include proficiency in Python, data visualization tools such as Power Bi and Tableau, and experience in machine learning algorithms, evident from my projects like the GPU Marketplace Scraper & Data Processor and Image Binary Classification for Sumthing.org.
+The prospect of identifying use cases and utilizing data from Vaisala's production machines as part of the Smart Factory team is an exhilarating challenge that I am eager to undertake.
+
+My independent project experiences, like the innovative use of the GPT-4 API for job hunting and the development of a custom CNN for image classification, demonstrate my ability to lead projects from conception to completion with successful outcomes.
+
+The opportunity to learn from Vaisala’s brilliant experts, participate in training sessions, and contribute to real-life questions that matter to the company excites me.
+
+I am confident that my background in data analysis, my passion for leading projects, and my eagerness to learn and grow align well with the requirements of the Giant Leap program. I look forward to the possibility of contributing to Vaisala's innovative solutions and being a part of a team that makes a real difference in the world.
+
+Thank you for considering my application. I am excited about the opportunity to discuss how I can contribute to the success of Vaisala's Smart Factory operations.
+
+Best regards,
+Gent Thaqi
+
+
+
+
+-------------------------------------
 
 Metacore - Analytics Engineer
 Dear Hiring Team at Metacore,
