@@ -20,8 +20,27 @@
 | Data Engineer                                           | Huuva                                   | 43           |
 | Machine Learning/AI Software Developer (Python)         | Yousician                               | 43           |
 | Summer Trainee, Data Specialist                         | UPM                                     | 48           |
+| Analytics Engineer                                      | Metacore                                | 2/24         |
 
 
+Metacore - Analytics Engineer
+Dear Hiring Team at Metacore,
+
+After a couple of applications to Metacore, I find myself eagerly applying for the Analytics Engineer position. At this point it might be easier to tailor a large language model to craft these cover letters for Metacore! Humor aside, my passion for both data and gaming is what drives me to apply once again. The synergy of these fields is where I believe I can truly excel. Although I might not be the most experienced candidate in every aspect of this role, my strong understanding of the business side, combined with a solid grasp of the technical processes, positions me uniquely for this opportunity.
+
+My experience aligns well with the responsibilities and requirements outlined for this role. I possess a robust business acumen, particularly in the F2P context, and a proven track record in driving growth. I am proficient in Python and have substantial experience using SQL at scale, including platforms like Snowflake. Additionally, my familiarity with version control systems like Git underscores my technical expertise. I am also adept at communicating analysis outcomes clearly and effectively, a skill honed through my previous roles in analytics engineering and management. While I am still growing in areas like dbt and statistical methods in the F2P context, my eagerness to stay updated with emerging technologies and apply them practically, including generative AI, keeps me at the forefront of industry developments.
+
+In conclusion, joining Metacore would not only fulfill a personal passion for gaming and data but would also allow me to contribute meaningfully to your team. I already live in Helsinki and being part of Metacore's unique culture is incredibly exciting. I look forward to the possibility of discussing my application further.
+
+Thank you for considering my application.
+
+Sincerely,
+Gent Thaqi
+
+
+
+
+--------------------------------------------------
 Dear Hiring Manager,
 
 I am writing to express my interest in the Data Specialist position at UPM. My passion for sustainability, coupled with my background in Information Technology, particularly in data analysis and IoT, strongly aligns with UPM's commitment to innovating for a sustainable tomorrow.
