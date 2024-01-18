@@ -217,11 +217,6 @@ Thank you for looking at my letter. I'd love to chat more about how I can be a g
 
 Best,
 Gent Thaqi
-------------------------------
-
-GPT PROMPT
-
-Given the following CV and job posting, please identify overlapping skills and experiences. Based on the overlaps, write a cover letter in simple English, with straightforward sentences, avoiding overly complex or fancy words, but maintaining a balanced tone.
 
 ------------------------------------
 UPM; Sourcing BI and Analytics
