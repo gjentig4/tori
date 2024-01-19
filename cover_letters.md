@@ -19,12 +19,31 @@
 | IT Analyst (Student)                                    | Nordea                                  | 43           |
 | Data Engineer                                           | Huuva                                   | 43           |
 | Machine Learning/AI Software Developer (Python)         | Yousician                               | 43           |
-| Summer Trainee, Data Specialist                         | UPM                                     | 48           |
+| Summer Trainee, Data Specialist                         | UPM                                     | 48/23        |
 | Analytics Engineer                                      | Metacore                                | 2/24         |
 | Giant Leap Trainee, Machine Data Analysis               | Vaisala                                 | 3/24         |
 | Nordea Trainee                                          | Nordea                                  | 3/24         |\
+| Summer Traineeship                                      | Fortum                                  | 3/24
+
+Dear Petri,
+
+I am writing to express my deep interest in the Summer Traineeship with the Platform Engineering Team at Fortum. Currently pursuing my Bachelor of Engineering in Information Technology at Metropolia University, Finland, I am passionate about platform engineering and the application of theoretical concepts in real-world scenarios. I am particularly excited about the opportunities for learning and growth in areas like cloud platforms and front-end development that Fortum offers.
+
+My academic journey, including a focus on Embedded IoT Devices and a minor in Big Data from Amsterdam University of Applied Sciences, has provided me with a solid foundation in software development and IT concepts. I have gained practical skills in programming languages, notably Python, and I possess a good understanding of front-end development. Additionally, my proficiency in Linux and hands-on experience with data analysis, machine learning, and web development using tools like NodeJS, Flask, and JavaScript align well with the technical aspects of the role.
+
+I am particularly drawn to working with Backstage, an open platform for building developer portals. Although I have not worked directly with Backstage, my project experience, including developing a GPU Marketplace Scraper and a Binary Classification model, demonstrates my ability to quickly learn and adapt to new technologies. My experience in implementing machine learning algorithms and involvement in data-centric projects reflect my ability to contribute effectively to Fortum's Platform Engineering Team.
+
+Collaboration and clear communication have been key aspects of my previous roles, both academically and professionally. As a Senior Team Leader at UNICEF Finland, I honed my teamwork and leadership skills, managing a team of over 30 people, which I believe will be beneficial in a collaborative and supportive environment like Fortum.
+
+I am enthusiastic about the chance to work on diverse tasks and take on responsibilities that align with Fortum's vision of sustainable solutions and clean energy. My eagerness to learn and contribute, combined with my educational background and project experience, make me a fitting candidate for this summer traineeship.
+
+I am available for the entire summer job period between May and September, with flexibility regarding the start and end dates. Thank you for considering my application. I am looking forward to the opportunity to discuss how I can contribute to Fortum's Platform Engineering Team.
+
+Best regards, 
+Gent Thaqi
 
 
+-----------------------------------
 Dear Hiring Team at Vaisala,
 
 I am writing to express my interest in the Giant Leap Trainee, Machine Data Analysis position at Vaisala's headquarters in Vantaa. The structure of the Giant Leap program, specifically the opportunity to lead my own project, aligns perfectly with my passion for undertaking individual projects and presenting the results. This role excites me as it offers a platform to apply my analytical skills and experience in data analysis in a meaningful and impactful way.
