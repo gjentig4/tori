@@ -25,6 +25,11 @@
 | Nordea Trainee                                          | Nordea                                  | 3/24         |\
 | Summer Traineeship                                      | Fortum                                  | 3/24
 
+
+
+-------------------------------------
+Fortum; Summer Traineeship
+
 Dear Petri,
 
 I am writing to express my deep interest in the Summer Traineeship with the Platform Engineering Team at Fortum. Currently pursuing my Bachelor of Engineering in Information Technology at Metropolia University, Finland, I am passionate about platform engineering and the application of theoretical concepts in real-world scenarios. I am particularly excited about the opportunities for learning and growth in areas like cloud platforms and front-end development that Fortum offers.
@@ -44,6 +49,8 @@ Gent Thaqi
 
 
 -----------------------------------
+Vaisala; Machine Data Anaylst Trainee
+
 Dear Hiring Team at Vaisala,
 
 I am writing to express my interest in the Giant Leap Trainee, Machine Data Analysis position at Vaisala's headquarters in Vantaa. The structure of the Giant Leap program, specifically the opportunity to lead my own project, aligns perfectly with my passion for undertaking individual projects and presenting the results. This role excites me as it offers a platform to apply my analytical skills and experience in data analysis in a meaningful and impactful way.
