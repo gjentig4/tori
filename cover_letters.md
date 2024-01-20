@@ -26,7 +26,28 @@
 | Summer Traineeship / Platform Engineering               | Fortum                                  | 3/24         |
 | Summer Traineeship / Data Platforms                     | Fortum                                  | 3/24         |
 | Summer Traineeship /  Data Science Nordics team         | Fortum                                  | 3/24         |
+| Summer Trainee, Data Scientist                          | Kone                                    | 3/24         |
 
+Dear  Mirko Ruokokoski,
+
+I am writing to express my keen interest in the Summer Trainee, Data Scientist position at KONE Technology and Innovation. As a student in the final stages of my B.Sc. in Information Technology at Metropolia University, with a concentration in Embedded IoT Devices and Big Data, I am eager to apply my academic knowledge and passion for data science to real-world challenges in the smart city domain.
+
+My academic journey has been heavily focused on data science, involving extensive use of Python and SQL for data analysis and manipulation. Projects like the GPU Marketplace Scraper  and the development of an Image Binary Classification model for sumthing.org have sharpened my analytical skills and honed my ability to handle large datasets effectively. These experiences have equipped me with the technical acumen and innovative mindset necessary to contribute significantly to KONE's people flow analytic activities and energy-efficient elevator group control development.
+
+I am particularly attracted to the opportunity at KONE due to its leading position in the elevator and escalator industry and its commitment to innovation and sustainable urban development. The chance to work on optimization solutions and intelligent control algorithms that impact billions of users is both thrilling and aligns perfectly with my career aspirations. I am excited about the prospect of being part of a dynamic team that is at the forefront of creating smarter, more efficient urban environments.
+
+In addition to my technical skills, I bring a cooperative and independent approach to my work. I am confident in my ability to communicate complex ideas effectively in English, both in writing and verbally. My previous experience as a Senior Team Leader at UNICEF Finland has also instilled in me strong collaborative skills and the ability to work well in team environments.
+
+I am available to work for 2-4 months between May and September 2024 and am flexible regarding the exact timing. I am enthusiastic about the opportunity to contribute to KONE's innovative projects and look forward to the possibility of joining your esteemed team to help build the future cities.
+
+Thank you for considering my application. I am excited about the possibility of starting my career in data science at KONE, contributing to your mission, and being part of the #PeopleFlow.
+
+
+Best regards,
+Gent Thaqi
+
+
+-------------------------------------
 Dear Kristofer Jakobsson,
 
 I am eagerly applying for the Summer Trainee position in the Data Science Nordics team at Fortum. After previously applying for another role within your organization, I realized that this opportunity aligns more directly with my strengths and deep interest in big data and data analytics.
