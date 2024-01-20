@@ -25,8 +25,27 @@
 | Nordea Trainee                                          | Nordea                                  | 3/24         |
 | Summer Traineeship / Platform Engineering               | Fortum                                  | 3/24         |
 | Summer Traineeship / Data Platforms                     | Fortum                                  | 3/24         |
+| Summer Traineeship /  Data Science Nordics team         | Fortum                                  | 3/24         |
+
+Dear Kristofer Jakobsson,
+
+I am eagerly applying for the Summer Trainee position in the Data Science Nordics team at Fortum. After previously applying for another role within your organization, I realized that this opportunity aligns more directly with my strengths and deep interest in big data and data analytics.
+
+Currently pursuing my degree in Information Technology at Metropolia University with a focus on Embedded IoT Devices and Big Data, I have developed a rich skill set that is well-suited to this role. My proficiency in Python is complemented by substantial experience in machine learning and data analysis, evident in projects like the Image Binary Classification for sumthing.org and the GPU Marketplace Scraper. These projects not only sharpened my analytical skills but also involved complex time series analytics and data processing, making them directly relevant to the work at Fortum.
+
+Moreover, I have gained practical knowledge in managing and automating AWS S3 buckets, demonstrating my ability to handle cloud-based data storage and processing effectively. This experience, combined with my experience with SQL and cloud environments, positions me well for a role that demands a sophisticated understanding of data infrastructure.
+
+I am particularly excited about the prospect of working in an environment that offers a mix of guidance from experienced data scientists and the opportunity to tackle a wide range of analytical applications. My natural inclination towards problem-solving and a proactive approach to learning new technologies will enable me to contribute meaningfully to your team's projects.
+
+At Fortum, I look forward to applying my technical skills and passion for data science to real-world challenges in the energy sector. I am enthusiastic about the opportunity to grow professionally and make a tangible impact in an innovative and forward-thinking team.
+
+I am available for the entire summer period and open to the possibility of continuing in a part-time capacity or as a thesis worker post-summer. Thank you for considering my application. I am eager to contribute to Fortum's mission and am excited about the possibility of starting my career in data science with your esteemed team.
 
 
+Best regards,
+Gent Thaqi
+
+-------------------------
 
 Dear Ville Viitanen,
 
