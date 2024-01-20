@@ -22,9 +22,32 @@
 | Summer Trainee, Data Specialist                         | UPM                                     | 48/23        |
 | Analytics Engineer                                      | Metacore                                | 2/24         |
 | Giant Leap Trainee, Machine Data Analysis               | Vaisala                                 | 3/24         |
-| Nordea Trainee                                          | Nordea                                  | 3/24         |\
-| Summer Traineeship                                      | Fortum                                  | 3/24
+| Nordea Trainee                                          | Nordea                                  | 3/24         |
+| Summer Traineeship / Platform Engineering               | Fortum                                  | 3/24         |
+| Summer Traineeship / Data Platforms                     | Fortum                                  | 3/24         |
 
+
+
+Dear Ville Viitanen,
+
+I am writing to apply for the Summer Trainee position in Data Platforms at Fortum, having recently applied for another role within your esteemed organization. After careful consideration, I believe that this position aligns more closely with my academic background and professional interests, particularly in the realms of big data and data analysis.
+
+As a current student at Metropolia University, majoring in Embedded IoT Devices with a focus on Big Data, I have developed a solid foundation in programming, especially in Python and SQL. My academic projects have included extensive work with data management and analysis, which I believe will be beneficial in supporting your data engineers in operating and developing the Asset and Markets data platform.
+
+My practical experience includes data analysis and manipulation at Triomed, where I managed and analyzed datasets with over 10 million data points. This role honed my skills in Python, SQL, and data visualization using Power BI and Tableau, aligning well with the requirements of your traineeship. While my experience with Databricks is currently limited, my familiarity with AWS and Terraform, coupled with my eager "getting things done" attitude and problem-solving mindset, position me well for this role.
+
+In my role as a Senior Team Leader at UNICEF Finland, I cultivated strong collaboration and communication skills. This experience, combined with my technical expertise, makes me confident in my ability to work effectively in a team and address business needs through innovative data solutions.
+
+I am enthusiastic about the opportunity to gain hands-on experience in how modern cloud technology is employed to address complex business challenges. I am particularly eager to expand my knowledge in data management and its effective utilization in a dynamic environment like Fortum.
+
+I am available for the entire summer job period and look forward to the possibility of joining Fortum, where I can further develop my skills in data management and contribute to your team's success.
+
+Thank you for considering my application. I am excited about the opportunity to contribute to Fortum's data platform team and eagerly await the chance to discuss my application further.
+
+
+
+Best regards,
+Gent Thaqi
 
 
 -------------------------------------
