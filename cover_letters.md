@@ -27,7 +27,31 @@
 | Summer Traineeship / Data Platforms                     | Fortum                                  | 3/24         |
 | Summer Traineeship /  Data Science Nordics team         | Fortum                                  | 3/24         |
 | Summer Trainee, Data Scientist                          | Kone                                    | 3/24         |
+| Summer Trainee, Data Scientist/Enigneer                 | OP                                      | 4/24         |
 
+
+Summer Trainee, Data Scientist/Engineer | OP
+Dear Hiring Manager at OP Financial Group,
+
+I am writing to express my interest in the Data Scientist/Engineer position within your Development and Technologies organization in Helsinki. As a student pursuing a Bachelor of Engineering in Information Technology at Metropolia, I am excited about the opportunity to apply my skills in a real-world context, particularly in a prestigious financial institution like OP Financial Group.
+
+My academic background, in Big Data and Embedded IoT Devices , has equipped me with a solid foundation in data analysis and programming. I have honed my skills in Python, which I have utilized extensively in both academic projects and personal endeavors. My proficiency extends to data manipulation and analysis, demonstrated in projects such as the GPU Marketplace Scraper & Data Processor and the Image Binary Classification model. These projects not only highlight my technical expertise but also my ability to derive actionable insights from complex datasets.
+
+Furthermore, I bring practical experience with AWS, having managed and automated AWS S3 buckets as part of my coursework and personal projects. This experience has given me a deep understanding of cloud computing and its application in data science, making me well-suited for a role that involves working with the latest technologies in AI/Data Science.
+
+I am particularly drawn to this role due to its blend of data engineering and data science, allowing me to leverage my skills in both domains. I am keen to work with experienced developers and contribute to the development of services and systems that solve tangible real-world problems, especially in the dynamic field of financial services.
+
+I pride myself on being self-driven and solution-oriented, with strong teamwork and interaction skills. The financial world fascinates me, and I am committed to continuous learning and development. I am eager to contribute to OP Financial Group's mission and support your growth with my positive and goal-oriented attitude.
+
+I am available to work full-time from May to September 2024 and am excited about the prospect of joining your team and contributing to the innovative work at OP Financial Group.
+
+Thank you for considering my application. I look forward to the opportunity to discuss how my skills and experiences align with the needs of your team.
+
+Best regards,
+Gent Thaqi
+
+-------------------------
+Summer Trainee, Data Scientist | Kone
 Dear  Mirko Ruokokoski,
 
 I am writing to express my keen interest in the Summer Trainee, Data Scientist position at KONE Technology and Innovation. As a student in the final stages of my B.Sc. in Information Technology at Metropolia University, with a concentration in Embedded IoT Devices and Big Data, I am eager to apply my academic knowledge and passion for data science to real-world challenges in the smart city domain.
