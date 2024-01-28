@@ -314,8 +314,6 @@ Best,
 [Your Name]
 
 
-----------------------------------------
-Write a cover letter in simple English. Keep sentences straightforward and avoid complex or fancy words. The letter is for a Data Analyst position at a gaming company. Mention experience with Python, SQL, and data visualization. Express a personal interest in gaming.
 ----------------------------------------------------------------------------------------
 OP; Developer Trainee role in the Anti-Financial Crime area
 
