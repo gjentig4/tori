@@ -8,7 +8,7 @@ This Python-based project consists of two main scripts:
 
 2. **Data Cleaner (`gpu_all_info_data_cleaning.py`)**: Enhances the data set by categorizing GPUs, identifying VRAM, and extracting GPU variants from the scraped data. It uses the output from the first script and processes it further to add meaningful insights.
 
-3. All other scripts are variations of these two and how I basically came up with these
+3. All other scripts are variations of these two scripts above and they show the jourey (starting from basic functions on the base_code dir)
 
 ### Preview
 
